@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">MGroup Launch Configuration</entry>
+<entry key="profiler.settings.sampling.interval">10</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">jsp.weixin.ParamesAPI.util.*,&#13;
+jsp.weixin.contacts.util.*,&#13;
+jsp.weixin.encryption.util.*,&#13;
+jsp.weixin.media.util.*,&#13;
+jsp.weixin.menu.util.*,&#13;
+jsp.weixin.msg.Resp.*,&#13;
+jsp.weixin.msg.Util.*,&#13;
+jsp.weixin.msg.agent.until.*,&#13;
+jsp.weixin.oauth2.util.*,&#13;
+jsp.weixin.servicet.util.*,&#13;
+jsp.weixin.servlet.util.*</entry>
+<entry key="profiler.settings.n.profiled.threads.limit">32</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="profiler.settings.instrument.method.invoke">true</entry>
+<entry key="app_preset_"/>
+<entry key="profiler.settings.obj.alloc.stack.sampling.depth">0</entry>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">jsp.weixin.ParamesAPI.util.**
+jsp.weixin.contacts.util.**
+jsp.weixin.encryption.util.**
+jsp.weixin.media.util.**
+jsp.weixin.menu.util.**
+jsp.weixin.msg.Resp.**
+jsp.weixin.msg.Util.**
+jsp.weixin.msg.agent.until.**
+jsp.weixin.oauth2.util.**
+jsp.weixin.servicet.util.**
+jsp.weixin.servlet.util.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="profiler.settings.instr.scheme">1</entry>
+<entry key="profiler.settings.cpu.profiling.type">0</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>
